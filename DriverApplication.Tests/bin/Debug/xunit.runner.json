@@ -1,0 +1,7 @@
+
+// what this json file does is it changes our test explorer view..
+//the test name might be very long and this file makes it shorter and only displays the test method name
+
+{
+  "methodDisplay": "method"
+}
